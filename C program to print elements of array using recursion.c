@@ -1,3 +1,4 @@
+//C program to print elements of array using recursion
 #include <stdio.h>
 void prim(int arr[],int st,int end){
 if(st<end){
